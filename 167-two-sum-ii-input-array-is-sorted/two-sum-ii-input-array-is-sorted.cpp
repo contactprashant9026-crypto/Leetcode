@@ -17,7 +17,7 @@ public:
             else if(sum>target){
                 right--;
             }
-            else if(sum<target){
+            else {
                 left++;
             }
             
